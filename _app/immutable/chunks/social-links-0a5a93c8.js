@@ -1,0 +1,1 @@
+const i={github:{label:"GitHub",icon:"github",link:"https://github.com/niclad"},linkedin:{label:"LinkedIn",icon:"linkedin",link:"https://www.linkedin.com/in/nicolas-tedori/"},email:{label:"Email",icon:"envelope-fill",link:"mailto:nick@tedori.tech?subject="+encodeURIComponent("I found you on your website")}};export{i as S};
